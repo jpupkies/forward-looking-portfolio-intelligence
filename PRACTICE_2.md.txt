@@ -1,1 +1,5 @@
 This is a second practice file for Git workflow.
+<<<<<<< HEAD
+=======
+Adding a preview commit for diff check.
+>>>>>>> practice-branch
